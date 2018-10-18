@@ -5,6 +5,6 @@ MyNewIdea
 2.step 2
 3.another step
 4.debug
-
+5.first change after [git commit -m "first commit"]
 
 eon of file
