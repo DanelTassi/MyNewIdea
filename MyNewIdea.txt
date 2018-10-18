@@ -6,5 +6,6 @@ MyNewIdea
 3.another step
 4.debug
 5.first change after [git commit -m "first commit"]
+6.changed eon of file to eof of file
 
-eon of file
+eof of file
