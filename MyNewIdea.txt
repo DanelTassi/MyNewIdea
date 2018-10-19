@@ -9,5 +9,6 @@ MyNewIdea
 6.changed eon of file to eof of file
 7.now manage it with tortoisegit
 8.cloned from GitHub
+9.new branch
 
 eof of file
